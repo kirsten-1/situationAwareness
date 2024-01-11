@@ -3,6 +3,8 @@
 有结合nmap进行网段和端口扫描的功能。
 
 目前项目代码不全， 感兴趣的加我微信，微信号: wxid_zu8be35x3yz612
+<img width="291" alt="image" src="https://github.com/kirsten-1/situationAwareness/assets/75300324/c40a0963-4b72-40b5-97bf-b2391a2f80be">
+
 
 可用于毕设
 
